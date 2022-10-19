@@ -1,2 +1,7 @@
 # vie_sociale_des_donn-es
-vie sociale des données
+
+## Introduction
+
+Corps de texte. 
+
+![texte caché](adresse de l'image)
